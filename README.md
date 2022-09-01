@@ -1,1 +1,1 @@
-current directory print path
+Display current directory contents
